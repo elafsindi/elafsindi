@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Elaf Sindi 👋<br>A Front-End Developer passionate about building modern, responsive, and user-friendly web experiences.<br><br><br>💻 I’m currently working on modern web applications and personal projects.<br><br>🤝 I’m open to collaborating on innovative and creative web projects.<br><br>🌱 I’m continuously learning advanced front-end technologies and improving my development skills.<br><br>💬 Ask me about React, JavaScript, HTML, CSS, and responsive web design.<br><br>⚡ I enjoy turning ideas into beautiful and interactive digital experiences.
+Hi, I'm Elaf Sindi 👋<br>A Front-End Developer passionate about building modern, responsive, and user-friendly web experiences.<br><br><br>💻 I’m currently building modern web applications and personal projects.<br><br>🤝 I’m open to collaborating on innovative and creative web projects.<br><br>🌱 I’m continuously learning advanced front-end technologies and improving my development skills.<br><br>💬 Ask me about React, JavaScript, HTML, CSS, and responsive web design.<br><br>⚡ I enjoy turning ideas into beautiful and interactive digital experiences.
 
 
 ## 🌐 Socials:
