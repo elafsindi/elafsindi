@@ -3,7 +3,9 @@ Hi, I'm Elaf Sindi 👋<br>A Front-End Developer passionate about building moder
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/afsindi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elafsindi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afsindi@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/elafsindi)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance\&logoColor=white)](https://behance.net/afsindi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:afsindi@outlook.com)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
